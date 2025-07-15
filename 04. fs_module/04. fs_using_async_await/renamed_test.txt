@@ -1,0 +1,2 @@
+This is a test file file using fs promises async and await
+Append data in the files fs promises async and await
