@@ -1,0 +1,2 @@
+This is a test file using fs promises.
+Append one new line in this file
